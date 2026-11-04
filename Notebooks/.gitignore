@@ -1,0 +1,14 @@
+# Python 快取與虛擬環境
+__pycache__/
+.venv/
+venv/
+.env
+
+# 資料集與機器學習產出（依你的專案調整）
+data/
+*.pth
+*.ckpt
+mlruns/
+
+# VS Code 專案設定
+.vscode/
